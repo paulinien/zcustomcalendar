@@ -39,7 +39,7 @@ public class CustomCalendar extends LinearLayout {
 	public static final int FRIDAY = 5;
 	public static final int SATURDAY = 6;
 	
-	private final String[] MONTHS = new String[] {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+	private final String[] MONTHS = new String[] {"Janvier", "Fevrier", "Mars", "Avril", "Mai", "Juin", "Juillet", "Aout", "Septembre", "Octobre", "Novembre", "Decembre"};
 	
 	private Context context = null;
 	private View view = null;
